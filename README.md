@@ -44,3 +44,11 @@ print(MultiBinary.binary_search(list, 369))
 ```
 pip instal MultiBinary
 ```
+
+
+
+## Hashes
+* MultiBinary-1.0.0.tar.gz
+ ** SHA265: 92b8cf64d6701af578275fec82ee627a20bf4b83cfbe98dcc7e77577e0c61001
+* MultiBinary-1.0.0-py3-none-any.whl
+ ** SHA256: 92b8cf64d6701af578275fec82ee627a20bf4b83cfbe98dcc7e77577e0c61001
